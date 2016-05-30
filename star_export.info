@@ -1,0 +1,5 @@
+name = Star Export
+description = Implements a drush command to export node content including field collection data
+core = 7.x
+php = 5.5
+version = 7.x-1.0
