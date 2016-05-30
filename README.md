@@ -13,3 +13,5 @@ Details and a walk-through of the code can be found at https://www.shift8web.ca
 
 ###To export 
 `drush star-export > test.csv`
+
+This file will be updated with more information
